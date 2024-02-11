@@ -10,8 +10,12 @@ Bus transport system website will help people to book ticket online from anywher
  CONCLUSION
 BUS TRANSPORT MANAGEMENT SYSTEM is a web-based application. Which has high integrity to change the current problems and system failure. It's going to be the need and optimum option for comfortable travel experience in future. Also, the same system with some basic and minute changes in programming and interface can be implemented for metros and nilways also. From our project experience we ha e experienced that computerized system id more helpful rather than standing in queue for bookings. It helped us to get in depth knowledge about how system is planned, organized and managed. It's not everyone's cup of tea to manage such a huge transportation system sc, by implementing BUS TRANSPORT MANAGEMENT SYSTEM things are going to get much better.
 
- Er-Diagram
+ #Diagrams:-
+ 
+ 1.) Er-Diagram
 ![Er](https://github.com/Yash-kapure25/Trave-on-Wheels/assets/85839788/92975cdb-c3af-4735-b6ea-306c4235ca54)
- State Diagram
+
+
+ 2.) State Diagram
 ![state](https://github.com/Yash-kapure25/Trave-on-Wheels/assets/85839788/fb53e30b-f103-40b6-8536-678619db05cd)
 
